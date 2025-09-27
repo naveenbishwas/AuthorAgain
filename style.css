@@ -12,6 +12,7 @@ body {
 * {
   box-sizing: border-box;
   transition: all 0.3s ease;
+  font-family: "Roboto Condensed";
 }
 
 /* Fade in animation */
@@ -228,8 +229,8 @@ body {
   font-size: 30px;
   text-transform: uppercase;
   margin-bottom: 20px;
-  font-family: "Arial", sans-serif;
-  letter-spacing: 2px;
+  /* font-family: "Arial", sans-serif; */
+  letter-spacing: 1px;
 }
 
 .themes-right p {
